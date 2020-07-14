@@ -1,5 +1,5 @@
 # TwitterAnalytica
-Project for the cloud computing course. Analysis of tweets streams through Apache Spark and visualization on interface realized in Streamlit
+Project for the cloud computing course. Analysis of tweets streams through Apache Spark and visualization on interface realized in Streamlit using Amazon AWS service
 
 ## Authors
 
